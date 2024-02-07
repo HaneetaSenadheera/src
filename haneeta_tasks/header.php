@@ -26,13 +26,16 @@
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav mx-auto">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="exercise1.php">Exercise 1</a>
+                                    <a class="nav-link" href="ex1.php">Exercise 1</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Exercise 2</a>
+                                    <a class="nav-link" href="ex2.php">Exercise 2</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Exercise 3</a>
+                                    <a class="nav-link" href="ex3.php">Exercise 3</a>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="ex4.php">Exercise 4</a>
+                                <li class="nav-item">
                                 </li>
                             </ul>
                         </div>
@@ -43,8 +46,8 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-sm-6">
+            <div class="col-sm-2">
                 <p>List of Tasks</p>
                 <p>Something text.</p>           
             </div>
-            <div class="col-sm-6">
+            <div class="col-sm-10">
