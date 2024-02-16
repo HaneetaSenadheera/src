@@ -49,6 +49,9 @@
         <div class="row">
             <div class="col-sm-2">
                 <p>List of Tasks</p>
-                <p>Something text.</p>           
+                <p>Something text.</p>
+                <a href="../crud/index.php" class="create-data-link">Create Data</a>
+                <a href="../crud/read.php" class="read-data-link">Read Data</a>
+                <a href="../crud/updatesingle.php" class="update-data-link">Update Data</a>           
             </div>
             <div class="col-sm-10">
